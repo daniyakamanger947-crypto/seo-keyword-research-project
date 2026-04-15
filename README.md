@@ -1,4 +1,4 @@
-# SEO Basics & Keyword Research Project
+# SEO Basics & Keyword Research Project by daniya
 
 ## 📌 Project Goal
 Perform keyword research for a graphic design website.
